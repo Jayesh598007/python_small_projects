@@ -1,0 +1,3 @@
+# Internet_speed_using_Python
+
+here is a simple code to check our download/upload internet speed using python
