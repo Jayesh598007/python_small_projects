@@ -1,4 +1,8 @@
-# python_small_projects
-Below are the python small projects practiced with the help of Youtube
+Python Projects
+
+
+This repo contains small python projects which will help us all in developing and integrating our projects with these.
+
+These projects are practiced with the help of Youtube
 
 
